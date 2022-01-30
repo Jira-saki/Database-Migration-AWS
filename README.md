@@ -1,6 +1,6 @@
 
 # Database Migration to AWS project
-<img src="https://github.com/Jira-saki/Database-Migration-AWS/blob/main/image/DB-migration.png" width="800">
+<img src="https://github.com/Jira-saki/Database-Migration-AWS/blob/main/image/DB-migration.png" width="600">
 
 # Introduction & Goals
 - Migrate RDBMS (MySQL) to AWS using AWS DMS. 
