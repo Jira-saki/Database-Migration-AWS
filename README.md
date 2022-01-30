@@ -1,9 +1,8 @@
 
 # Database Migration to AWS project
-<img src="https://github.com/Jira-saki/Database-Migration-AWS/blob/main/image/DB-migration.png" width="600">
-
-# Introduction & Goals
 - Migrate RDBMS (MySQL) to AWS using AWS DMS. 
+<img src="https://github.com/Jira-saki/Database-Migration-AWS/blob/main/image/DB-migration.png" width="700">
+
 
 # Migration Purpose
 - Agility of Development and Deployment.
@@ -56,12 +55,12 @@
 
 
 # Pipelines
-- [Create EC2](#/Users/gee/Documents/GitHub/database-migration/LaunchUbuntuEC2.md) for MySQL Server.
-- [Create an Amazon RDS](#) Database.
-- [Create REPLICA instance](#) in DMS and configure instance details in SOURCE EC2 Instance. 
-- [Create endpoints](#) in DMS.
-- [Create custom database](#) on SOURCE Database.
-- [Create a Database Migration Task](#).
+- [Create EC2](https://github.com/Jira-saki/Database-Migration-AWS/blob/main/LaunchUbuntuEC2.md) for MySQL Server.
+- [Create an Amazon RDS](https://github.com/Jira-saki/Database-Migration-AWS/blob/main/createRDSDb.md) Database.
+- [Create REPLICA instance](https://github.com/Jira-saki/Database-Migration-AWS/blob/main/createReplicaInstance.md) in DMS and configure instance details in SOURCE EC2 Instance. 
+- [Create endpoints](https://github.com/Jira-saki/Database-Migration-AWS/blob/main/createEndpoints.md) in DMS.
+- [Create custom database](https://github.com/Jira-saki/Database-Migration-AWS/blob/main/createCustomDB.md) on SOURCE Database.
+- [Create a Database Migration Task](https://github.com/Jira-saki/Database-Migration-AWS/blob/main/createDBMigrationTask.md).
 
 
   
